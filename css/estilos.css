@@ -13,3 +13,11 @@ body {
     color: darkgreen;
     text-align: center;
 }
+
+#cabecera {
+    background-color: darkred;
+    color: white;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 50px;
+}
