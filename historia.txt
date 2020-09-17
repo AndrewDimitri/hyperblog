@@ -1,5 +1,5 @@
-Hola, mi nombre es Ra
+Hola, mi nombre es Ra y tengo 19 años.
 
 Soy estudiante de ingeniería, de la UABC, en la carrera de Sistemas Computacionales.
 
-Me encanta programar, jugar y desafiar la lógica
+Me encanta programar, jugar videojuegos y desafiar la lógica.
