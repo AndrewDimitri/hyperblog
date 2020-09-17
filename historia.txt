@@ -3,3 +3,5 @@ Hola, mi nombre es Ra y tengo 19 años.
 Soy estudiante de ingeniería, de la UABC, en la carrera de Sistemas Computacionales.
 
 Me encanta programar, jugar videojuegos y desafiar la lógica.
+
+Esta es su historia...
